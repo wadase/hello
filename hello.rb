@@ -1,1 +1,3 @@
-p hello
+def hello
+  print "hello"
+end
