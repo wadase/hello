@@ -6,4 +6,6 @@ hello
 wadase
 ##from
 Uraga
+test
+text
 
