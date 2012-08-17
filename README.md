@@ -8,4 +8,6 @@ wadase
 Uraga
 ##text
 test
-
+.red
+.green
+.blue
